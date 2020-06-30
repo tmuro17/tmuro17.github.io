@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanner Muro</title>
+    <link>http://tmuro17.github.io/</link>
+    <description>Recent content on Tanner Muro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://tmuro17.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tanner Muro</title>
+      <link>http://tmuro17.github.io/home/</link>
+      <pubDate>Mon, 29 Jun 2020 20:19:43 -0400</pubDate>
+      
+      <guid>http://tmuro17.github.io/home/</guid>
+      <description>Software Engineering Co-op at OM1
+Computer Science Major
+Northeastern University Class of 2021</description>
+    </item>
+    
+  </channel>
+</rss>
